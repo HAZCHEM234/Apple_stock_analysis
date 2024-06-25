@@ -12,7 +12,7 @@ This project uses Python libraries and Power Bi to analyze financial data (balan
 - Balance sheet, income statement and cashflow data in CSV format
 
 ## Requirements 
-- Python 3.5
+- Python 3.11.4
 - Require Python packages (e.g., pandas, requests)
 - Power BI Desktop
 - Jupyter notebook
